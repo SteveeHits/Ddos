@@ -1,0 +1,6 @@
+python-telegram-bot
+requests
+scapy
+h2
+selenium
+webdriver-manager
